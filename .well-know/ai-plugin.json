@@ -1,0 +1,17 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "kongkong",
+    "name_for_model": "cetus-assistant",
+    "description_for_human": "Get the scoop on Cetus DEX!.",
+    "description_for_model": "This plugin is your go-to resource for key information on Cetus DEX, such as the number of pools and the price of each pool. Stay informed and make the best decisions with Cetus Assistant.",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "http://localhost:5003/openapi.yaml"
+    },
+    "logo_url": "http://localhost:5003/logo.png",
+    "contact_email": "hgamiui9@gmail.com",
+    "legal_info_url": "http://example.com/legal"
+}
